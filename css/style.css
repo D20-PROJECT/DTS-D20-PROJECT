@@ -214,7 +214,11 @@ nav{
 
 .services-item3{
 	position: absolute;
-	margin:229px 130px 227px 980px ;
+	top:230px;
+	right:130px;
+	bottom:227px;
+	left:990px;
+/* 	margin:229px 130px 227px 980px ; */
 }
 
 .kotak{
