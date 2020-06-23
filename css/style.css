@@ -263,9 +263,9 @@ nav{
 /* STYLES FOOTER  */
 .footer {
 	width: 100%;
-/* 	position:absolute; */
+	position:absolute;
 	bottom:1000px;
-	position: relative;
+/* 	position: relative; */
 	max-height: auto;
 	background-color: #030222;
 	border-top: 3px solid #616069;
