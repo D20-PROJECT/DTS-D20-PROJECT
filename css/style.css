@@ -159,3 +159,79 @@ nav{
 	
 
 }
+
+
+/*BAGIAN SERVICES PAGE*/
+
+.services-page {
+        position: absolute;
+        width: 1440px;
+        height: 786px;
+        left: 0px;
+        top: 1611px;
+        background-color:  rgba(228, 229, 237, 0.5);
+        
+}
+
+.services-title {
+  	padding-top: 79px;
+ 	padding-bottom: 662px;
+  
+}
+
+.services-title h2 {
+        font-family: Source Code Pro;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 45px;
+        color: #070707;
+        text-align: center;
+}
+
+
+
+
+.services-item1 {
+	position: absolute;
+	margin:231px 980px 225px 130px;
+}
+
+
+.services-item2{
+	position: absolute;
+	margin: 230px 555px 226px 555px;
+
+}
+
+.services-item3{
+	position: absolute;
+	margin:229px 130px 227px 980px ;
+}
+
+.kotak{
+	  height: 330px;
+	  width: 330px;
+	  background-color: #E5E5E5;
+	  box-shadow: 7px 10px 5px rgba(0, 0, 0, 0.25);
+	  border-radius: 50px;
+	  position: relative;
+
+}
+
+
+.services-icon{
+	  padding:61px 209px 221px 48px;
+	  position: absolute;
+}
+
+.kanan{
+	  padding: 62px 78px 238px 151px;
+	  position: absolute;
+}
+
+.bawah{
+	padding: 135px 49px 72px 49px;
+	position: absolute;
+
+}
