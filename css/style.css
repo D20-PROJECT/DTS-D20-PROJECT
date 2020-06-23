@@ -194,13 +194,21 @@ nav{
 
 .services-item1 {
 	position: absolute;
-	margin:231px 980px 225px 130px;
+	top:230px;
+	right:980px;
+	bottom:226px;
+	left:130px;
+/* 	margin:231px 980px 225px 130px; */
 }
 
 
 .services-item2{
 	position: absolute;
-	margin: 230px 555px 226px 555px;
+	top:230px;
+	right:555px;
+	bottom:226px;
+	left:555px;
+/* 	margin: 230px 555px 226px 555px; */
 
 }
 
