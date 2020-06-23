@@ -140,12 +140,12 @@ nav{
 	}
 
 	.nav-list{
-	height: min-content;
 	top: 1.5rem;
 	right: 15rem;
 	flex-direction: row;
 	background-color: transparent;
 	width: 100%;
+	height: min-content;
 	justify-content: flex-end;
 	align-items: flex-start;
 	transition: ease 1ms;
